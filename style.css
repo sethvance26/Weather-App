@@ -1,0 +1,54 @@
+
+
+
+header {
+    text-align: center;
+    background-color: dark grey;
+    
+}
+
+h1 {
+    background-color: rgb(53, 56, 56);
+    padding: 20px;
+    font-size: 60px;
+    color: white;
+    font-family: 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0;
+}
+
+.sidenav {
+    height: 100%; 
+    width: 375px; /* Set the width of the sidebar */
+    position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+    /* z-index: 1; Stay on top */
+    /* top: 0; Stay at the top */
+    left: 0;
+    background-color: rgb(243, 243, 243); /* Black */
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 20px;
+    padding-left: 10px;
+  }
+
+  #container-weather-information {
+      margin-left: 380px;
+      padding: 20px
+      
+     
+  }
+  #weather-information-card {
+      width: 600px;
+  }
+
+
+  .card-subtitle {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 25px;
+  }
+
+  /* .input-group {
+   
+  }
+  #search-btn {
+      d
+  } */
